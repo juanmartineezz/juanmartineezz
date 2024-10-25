@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Juan Martinez</h1>
 
 <p align="center">
-  <p align="center">
-  <img src=""C:\Users\jmurd\Downloads\DALL·E 2024-10-25 11.00.18 - A visually appealing banner illustration showing a data scientist working with charts, data points, and a laptop, surrounded by elements like graphs, .webp"" width="800" alt="Data Scientist Banner">
-</p>
   Data Science student at the Polytechnic University of Valencia 🎓, passionate about transforming data into meaningful insights. Here, you'll find my projects where I dive into the power of data through analysis, predictive modeling, and visualization. Welcome to my portfolio!
 </p>
 
