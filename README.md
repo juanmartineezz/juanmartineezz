@@ -1,26 +1,26 @@
-<h1 align="center">👋 ¡Hola! Soy Juan Martinez</h1>
+<h1 align="center">👋 Hi there! I'm Juan Martinez</h1>
 
 <p align="center">
-  Estudiante de <b>Ciencia de Datos</b> en la Universidad Politécnica de Valencia 🎓, apasionado por convertir datos en conocimiento. Aquí encontrarás mis proyectos, donde exploro el poder de los datos mediante análisis, modelado predictivo y visualización. ¡Bienvenido a mi perfil!
+  Data Science student at the Polytechnic University of Valencia 🎓, passionate about transforming data into meaningful insights. Here, you'll find my projects where I dive into the power of data through analysis, predictive modeling, and visualization. Welcome to my portfolio!
 </p>
 
 ---
 
-<h2 align="center">💼 Proyectos Destacados</h2>
+<h2 align="center">💼 Featured Projects</h2>
 
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Análisis Exploratorio de Datos en Finanzas](https://github.com/juanmartineezz/proyecto1) | Limpieza y análisis de datos financieros para detectar patrones. | Python, Pandas, Matplotlib |
-| [Modelo Predictivo de Ventas](https://github.com/juanmartineezz/proyecto2) | Predicción de ventas con técnicas de ML. | Scikit-Learn, XGBoost, TensorFlow |
-| [Análisis de Sentimiento en Redes Sociales](https://github.com/juanmartineezz/proyecto3) | Procesamiento de lenguaje natural en publicaciones de redes sociales. | NLTK, spaCy, Gensim |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Financial Data Exploratory Analysis](https://github.com/juanmartineezz/project1) | Cleaning and analyzing financial data to uncover patterns. | Python, Pandas, Matplotlib |
+| [Sales Predictive Model](https://github.com/juanmartineezz/project2) | Sales prediction using machine learning techniques. | Scikit-Learn, XGBoost, TensorFlow |
+| [Social Media Sentiment Analysis](https://github.com/juanmartineezz/project3) | NLP techniques to analyze sentiment in social media posts. | NLTK, spaCy, Gensim |
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Tecnologías y Herramientas</h2>
+<h2 align="center">🚀 Technologies & Tools</h2>
 
 <div align="center">
   
@@ -37,14 +37,20 @@
 
 ---
 
-<h2 align="center">📊 Habilidades</h2>
+<h2 align="center">📊 Skills & Expertise</h2>
 
-- **Análisis Exploratorio de Datos (EDA):** Habilidades en limpieza, transformación y visualización de datos para identificar tendencias y patrones.
-- **Modelado Predictivo:** Experiencia en modelos de regresión, clasificación y clustering, aplicando algoritmos como Random Forest, XGBoost y redes neuronales.
-- **Procesamiento de Lenguaje Natural (NLP):** Análisis de texto para obtener insights, realizar clasificaciones y análisis de sentimientos.
-- **Visualización de Datos:** Creación de dashboards y visualizaciones interactivas en Power BI, Tableau y Plotly para comunicar insights de manera efectiva.
+- **Exploratory Data Analysis (EDA):** Skilled in data cleaning, transformation, and visualization to identify trends and patterns.
+- **Predictive Modeling:** Experienced with regression, classification, and clustering using algorithms like Random Forest, XGBoost, and neural networks.
+- **Natural Language Processing (NLP):** Proficient in text analysis, sentiment analysis, and text classification.
+- **Data Visualization:** Creating interactive dashboards and data visualizations in Power BI, Tableau, and Plotly to effectively communicate insights.
 
 ---
 
-<h2 align="center">📈 Estructura de mi Repositorio</h2>
+<h2 align="center">🎯 Professional Goals</h2>
+
+I’m enthusiastic about leveraging data to solve real-world problems and drive decision-making. My goal is to work in an innovative environment where I can use my skills to make a meaningful impact on business strategy and operations.
+
+---
+
+<h2 align="center">📈 Repository Structure</h2>
 
