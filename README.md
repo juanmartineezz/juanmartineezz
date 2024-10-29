@@ -46,8 +46,8 @@
 <h2 align="center">💻 Professional Experience</h2>
 
 - **Software Developer**  
-  <em>[Company Name]</em>  
-  _Start Date - End Date_
+  <em>[Urobora]</em>  
+  10/2024 - 12/2024
 
   - Developed backend applications in Python and Java, including REST API design.
   - Collaborated in database management systems development, ensuring efficient and secure integration.
@@ -73,11 +73,6 @@ I'm enthusiastic about leveraging data to solve real-world problems and drive de
 
 ---
 
-
-<h2 align="center">
-  <img src="https://img.icons8.com/emoji/48/000000/bar-chart-emoji.png" width="28" height="28" />
-  Repository Structure
-</h2>
 
 ---
 
