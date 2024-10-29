@@ -73,7 +73,25 @@ I'm enthusiastic about leveraging data to solve real-world problems and drive de
 
 ---
 
-<h2 align="center">📈 Repository Structure</h2>
+
+<h2 align="center">
+  <img src="https://img.icons8.com/emoji/48/000000/bar-chart-emoji.png" width="28" height="28" />
+  Repository Structure
+</h2>
+
+---
+
+<p align="center">
+  <i>"Data tells a story; my mission is to decipher it and make sure it tells the right story."</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/juanmartineezz"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/juanmartineezz"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+
+
 
 
 
