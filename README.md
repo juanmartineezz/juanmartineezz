@@ -86,7 +86,7 @@ I'm enthusiastic about leveraging data to solve real-world problems and drive de
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/juanmartineezz"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/juan-mart%C3%ADnez-urdaci-a4a2022b5/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/juanmartineezz"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
