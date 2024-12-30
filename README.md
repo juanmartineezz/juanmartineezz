@@ -11,19 +11,6 @@
 
 ---
 
-<h2 align="center">💼 Featured Projects</h2>
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Financial Data Exploratory Analysis](https://github.com/juanmartineezz/project1) | Data cleaning and analysis to uncover patterns and trends in financial data. | Python, Pandas, Matplotlib |
-| [Sales Predictive Model](https://github.com/juanmartineezz/project2) | Sales prediction using machine learning techniques. | Scikit-Learn, XGBoost, TensorFlow |
-| [Social Media Sentiment Analysis](https://github.com/juanmartineezz/project3) | NLP techniques to analyze sentiment in social media posts. | NLTK, spaCy, Gensim |
-
-</div>
-
----
 
 <h2 align="center">🚀 Technologies & Tools</h2>
 
