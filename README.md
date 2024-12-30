@@ -32,7 +32,7 @@
 
 <h2 align="center">💻 Professional Experience</h2>
 
-Software Developer
+Software Developer Intern
 <em>[Urobora]</em>
 10/2024 - 02/2025
 
