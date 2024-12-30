@@ -36,10 +36,10 @@ Software Developer
 <em>[Urobora]</em>
 10/2024 - 02/2025
 
--Developed intelligent agents leveraging large language models (LLMs) and prompt engineering to automate workflows.
--Designed and implemented an ontology in Neo4j, optimizing knowledge graph representation and enabling advanced querying capabilities.
--Created a Pull Request Reviewer Tool to streamline code review processes, improving efficiency and software quality.
--Worked in an international environment, collaborating in English for all communication, documentation, and development tasks.
+- Developed intelligent agents leveraging large language models (LLMs) and prompt engineering to automate workflows.
+- Designed and implemented an ontology in Neo4j, optimizing knowledge graph representation and enabling advanced querying capabilities.
+- Created a Pull Request Reviewer Tool to streamline code review processes, improving efficiency and software quality.
+- Worked in an international environment, collaborating in English for all communication, documentation, and development tasks.
 
 <h2 align="center">📊 Data Science Skills</h2>
 
